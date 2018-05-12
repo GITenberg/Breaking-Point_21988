@@ -1,0 +1,34 @@
+_repo: Breaking-Point_21988
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gunn, James E.
+    aliases:
+    - James, Edwin
+    - Gunn, James Edwin
+    birthdate: 1923
+    gutenberg_agent_id: '25015'
+    url: http://www.gutenberg.org/2009/agents/25015
+    wikipedia: http://en.wikipedia.org/wiki/James_Gunn_%28author%29
+description: <DIV>Although the short stories in this collection take place in the
+  distant future and within fictional landscapes, the themes that James Gunn examines
+  are the perpetual issues of the human race. These stories revolve around the testing
+  of man's true character-a problem that Gunn, through his powerful plot construction,
+  proves to be universal.</DIV>
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2007-07-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21988'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+title: Breaking Point
+url: http://www.gutenberg.org/ebooks/21988
